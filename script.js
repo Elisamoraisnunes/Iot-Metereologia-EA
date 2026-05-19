@@ -2,13 +2,13 @@
 // CONFIGURAÇÃO DO FIREBASE
 // ============================
 const firebaseConfig = {
-    apiKey: "SUA_API_KEY",
-    authDomain: "SEU_PROJETO.firebaseapp.com",
+    apiKey: "API_KEY",
+    authDomain: "PROJECT_ID.firebaseapp.com",
     databaseURL: "https://meteorologia-ea-default-rtdb.firebaseio.com",
-    projectId: "SEU_PROJETO",
-    storageBucket: "SEU_PROJETO.appspot.com",
-    messagingSenderId: "SEU_MESSAGING_SENDER_ID",
-    appId: "SEU_APP_ID"
+    projectId: "PROJECT_ID.",
+    storageBucket: "PROJECT_ID..appspot.com",
+    messagingSenderId: "MESSAGING_SENDER_ID",
+    appId: "APP_ID"
 };
 
 // Inicializa Firebase
